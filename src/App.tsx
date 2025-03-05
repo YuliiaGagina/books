@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import AddEditBook from "./pages/AddEditBook";
 
-import './App.css';
 import Layout from './components/Layout';
 
 const App: React.FC = () => {
