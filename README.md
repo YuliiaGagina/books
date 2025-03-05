@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Books React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Download all packeges.
+2. Open folder in code editor (vs code, PhpStorm).
+3. Open terminal and type npm install - it is needed to install all dependenses.
+4. start my local server - npm run server
+5. start react app - npm run start.
 
 ## Available Scripts
 
