@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fictionn",
+      "isbn": "9780743273565",
+      "createdAt": "2024-03-01T10:15:00Z",
+      "updatedAt": "2025-03-04T18:08:44.789Z",
+      "isActive": false
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classic",
+      "isbn": "9780061120084",
+      "createdAt": "2024-03-02T12:30:00Z",
+      "updatedAt": "2024-03-05T09:45:00Z",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "isbn": "9780451524935",
+      "createdAt": "2024-03-03T15:00:00Z",
+      "updatedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "category": "Adventure",
+      "isbn": "9781503280786",
+      "createdAt": "2024-03-04T08:45:00Z",
+      "updatedAt": "2024-03-06T14:20:00Z",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "category": "Historical",
+      "isbn": "9781400079988",
+      "createdAt": "2024-03-05T11:10:00Z",
+      "updatedAt": null,
+      "isActive": false
+    },
+    {
+      "id": "6",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "isbn": "9780141439518",
+      "createdAt": "2024-03-06T09:20:00Z",
+      "updatedAt": "2024-03-07T10:00:00Z",
+      "isActive": false
+    },
+    {
+      "id": "7",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "isbn": "9780316769488",
+      "createdAt": "2024-03-07T14:40:00Z",
+      "updatedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "8",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Dystopian",
+      "isbn": "9780060850524",
+      "createdAt": "2024-03-08T17:25:00Z",
+      "updatedAt": "2024-03-09T08:15:00Z",
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "isbn": "9780547928227",
+      "createdAt": "2024-03-09T20:50:00Z",
+      "updatedAt": null,
+      "isActive": false
+    },
+    {
+      "id": "10",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "category": "Psychological",
+      "isbn": "9780486415871",
+      "createdAt": "2024-03-10T07:30:00Z",
+      "updatedAt": "2024-03-11T12:10:00Z",
+      "isActive": true
+    },
+    {
+      "id": "1741159412969",
+      "title": "Алиса в стране чудес",
+      "author": "Льюїс Керрол",
+      "category": "приключения",
+      "isbn": "738374349839843475447",
+      "createdAt": "2025-03-05T07:23:32.969Z",
+      "updatedAt": null,
+      "isActive": true
+    }
+  ]
+}
